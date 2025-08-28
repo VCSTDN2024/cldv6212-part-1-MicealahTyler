@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ST10070824-ABCRetail.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
